@@ -266,7 +266,7 @@ section {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: flex-end;
-  background: url(/image/homee.bg.jpg) no-repeat;
+  background: url(/image/homee_bg.jpg) no-repeat;
   background-position: center;
   background-size: cover;
   position: relative;
